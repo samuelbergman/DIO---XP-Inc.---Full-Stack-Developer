@@ -1,0 +1,14 @@
+F:\_gits\DIO - XP Inc. - Full Stack Developer\ExemploFundamentos_NET\bin\Debug\net8.0\ExemploFundamentos_NET.exe
+F:\_gits\DIO - XP Inc. - Full Stack Developer\ExemploFundamentos_NET\bin\Debug\net8.0\ExemploFundamentos_NET.deps.json
+F:\_gits\DIO - XP Inc. - Full Stack Developer\ExemploFundamentos_NET\bin\Debug\net8.0\ExemploFundamentos_NET.runtimeconfig.json
+F:\_gits\DIO - XP Inc. - Full Stack Developer\ExemploFundamentos_NET\bin\Debug\net8.0\ExemploFundamentos_NET.dll
+F:\_gits\DIO - XP Inc. - Full Stack Developer\ExemploFundamentos_NET\bin\Debug\net8.0\ExemploFundamentos_NET.pdb
+F:\_gits\DIO - XP Inc. - Full Stack Developer\ExemploFundamentos_NET\obj\Debug\net8.0\ExemploFundamentos_NET.GeneratedMSBuildEditorConfig.editorconfig
+F:\_gits\DIO - XP Inc. - Full Stack Developer\ExemploFundamentos_NET\obj\Debug\net8.0\ExemploFundamentos_NET.AssemblyInfoInputs.cache
+F:\_gits\DIO - XP Inc. - Full Stack Developer\ExemploFundamentos_NET\obj\Debug\net8.0\ExemploFundamentos_NET.AssemblyInfo.cs
+F:\_gits\DIO - XP Inc. - Full Stack Developer\ExemploFundamentos_NET\obj\Debug\net8.0\ExemploFundamentos_NET.csproj.CoreCompileInputs.cache
+F:\_gits\DIO - XP Inc. - Full Stack Developer\ExemploFundamentos_NET\obj\Debug\net8.0\ExemploFundamentos_NET.dll
+F:\_gits\DIO - XP Inc. - Full Stack Developer\ExemploFundamentos_NET\obj\Debug\net8.0\refint\ExemploFundamentos_NET.dll
+F:\_gits\DIO - XP Inc. - Full Stack Developer\ExemploFundamentos_NET\obj\Debug\net8.0\ExemploFundamentos_NET.pdb
+F:\_gits\DIO - XP Inc. - Full Stack Developer\ExemploFundamentos_NET\obj\Debug\net8.0\ExemploFundamentos_NET.genruntimeconfig.cache
+F:\_gits\DIO - XP Inc. - Full Stack Developer\ExemploFundamentos_NET\obj\Debug\net8.0\ref\ExemploFundamentos_NET.dll
